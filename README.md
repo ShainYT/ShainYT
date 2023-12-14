@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a very ⚡ enthusiastic person who does not give up easily,<br>and I love learning new technologies. I would love to participate 🤝<br>in different projects that help me develop my skills and learn <br>about different technologies🌱. Currently, 🔭 I am learning React Native to<br>create a future app that serves the field of sports health.<br>
+I am a very ⚡ enthusiastic person who does not give up easily,<br>and I love learning new technologies. I would love to participate 🤝<br>in different projects that help me develop my skills and learn <br>about different technologies🌱. Currently, 🔭 I am learning Android(kotlin and java) to<br>create a future app that serves the field of sports health.<br>
 
 
 ## 🌐 Socials:
